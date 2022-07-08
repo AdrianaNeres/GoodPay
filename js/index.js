@@ -10,6 +10,5 @@ entrarUsuario.addEventListener("click", _event => {
         window.location.pathname="/app.html";
     } else {
         alertaLogin.show();
-    }
-    alertaLogin.show();
+    }    
 });
